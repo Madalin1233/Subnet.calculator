@@ -1,4 +1,3 @@
-__author__ = ''
 import sys
 
 def _dec_to_binary(ip_address):
