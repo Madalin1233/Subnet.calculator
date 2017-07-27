@@ -1,4 +1,4 @@
-__author__ = 'Popescu Leonard'
+
 import sys
 
 def _dec_to_binary(ip_address):
